@@ -1,0 +1,17 @@
+/* body {
+  background: #60b8ff;
+  background: -webkit-linear-gradient(180deg, #9fd2fc 0%, #f1f1f1 80%);
+  background: linear-gradient(180deg, #9fd2fc 0%, #f1f1f1 80%);
+} */
+.jump-slow {
+  animation: jumping-slow 2.5s ease-in-out infinite;
+}
+@keyframes jumping-slow {
+  0%,
+  100% {
+    transform: translateY(0px);
+  }
+  50% {
+    transform: translateY(10px);
+  }
+}
