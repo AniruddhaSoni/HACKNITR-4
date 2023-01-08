@@ -4,7 +4,7 @@ export default function Video() {
   return (
     <div className="py-8">
       <iframe
-        src="https://www.youtube.com/embed/GdGHvWYl7CU"
+        src="https://www.youtube.com/embed/wkwbrBTPUv8"
         title="YouTube video player"
         frameborder="0"
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture;"

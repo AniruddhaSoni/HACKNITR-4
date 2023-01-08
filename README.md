@@ -21,7 +21,7 @@ In addition to searching for doctors by specialty, patients can also search for 
   - paying via razorpay
   - storing client files on services like cloudinary, firestore or any other cloud
 
-## [`youutbe Video ↗`](https://www.youtube.com/watch?v=GdGHvWYl7CU&ab_channel=PushkarYadav)
+## [`youutbe Video ↗`](https://www.youtube.com/watch?v=wkwbrBTPUv8)
 
 ## BENEFITS
 
