@@ -1,10 +1,9 @@
 import Head from "next/head";
-import About from "../components/Home/About";
-import Hero from "../components/Home/Hero";
-import Video from "../components/Home/Video";
-import WhyUs from "../components/Home/Whyus";
 
-export default function Home() {
+import React from "react";
+import Choose from "../../components/Dashboard/Choose";
+
+export default function index() {
   return (
     <>
       <Head>
@@ -14,10 +13,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <Hero />
-      <About />
-      <WhyUs />
-      <Video />
+      <Choose />
     </>
   );
 }
